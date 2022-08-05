@@ -1,0 +1,7 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: backstage
+  description: Tanzu Application Platform GUI System
+spec:
+  owner: default-team

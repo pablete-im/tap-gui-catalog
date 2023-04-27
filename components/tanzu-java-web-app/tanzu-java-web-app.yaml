@@ -11,5 +11,5 @@ metadata:
 spec:
   type: service
   lifecycle: experimental
-  owner: pablete-im
+  owner: team-a
   system: tap-samples

@@ -11,5 +11,5 @@ metadata:
 spec:
   type: service
   lifecycle: experimental
-  owner: ipablo
+  owner: pablete-im
   system: tap-samples

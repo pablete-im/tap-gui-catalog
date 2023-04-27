@@ -1,0 +1,7 @@
+site_name: 'backstage components'
+
+nav:
+  - The Component: index.md
+
+plugins:
+  - techdocs-core

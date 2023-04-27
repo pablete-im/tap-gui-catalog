@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: tap-samples
+  description: Tanzu Application Platform Samples
+  annotations:
+    'backstage.io/techdocs-ref': dir:.
+spec:
+  owner: it
+  domain: samples-domain

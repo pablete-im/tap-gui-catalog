@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: samples-domain
+  description: Everything related to the Tanzu Application Platform Accelerator Samples
+  links:
+    - url: https://tap-gui.full.ipablo-tap.tanzu.cc/create
+      title: ipablo-tap Accelerators
+      icon: dashboard
+    - url: https://docs.vmware.com/en/VMware-Tanzu-Application-Platform/1.4/tap/tap-gui-plugins-application-accelerator.html
+      title: Accelerators Documentations
+  annotations:
+    'backstage.io/techdocs-ref': dir:.
+spec:
+  owner: it

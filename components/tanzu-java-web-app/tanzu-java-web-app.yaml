@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: tanzu-java-web-app
+  description: Tanzu Application Platform Java Web Application Sample
+  tags:
+    - v1alpha1
+  annotations:
+    'backstage.io/kubernetes-label-selector': 'app=tanzu-java-web-app-00001'
+    'backstage.io/techdocs-ref': dir:.
+spec:
+  type: service
+  lifecycle: experimental
+  owner: ipablo
+  system: tap-samples

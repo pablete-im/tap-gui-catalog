@@ -1,0 +1,7 @@
+site_name: 'Samples domain'
+
+nav:
+  - The Domain: index.md
+
+plugins:
+  - techdocs-core

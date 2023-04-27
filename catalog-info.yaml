@@ -11,7 +11,7 @@ spec:
     - ./components/tanzu-java-web-app/tanzu-java-web-app.yaml
     - ./groups/default-org.yaml
     - ./groups/org.yaml
-    - ./systems/tap-gui-system.yaml
-    - ./systems/tap-samples-system.yaml
-    - ./domains/tap-gui-domain.yaml
-    - ./domains/samples-domain.yaml
+    - ./systems/tap-gui/tap-gui-system.yaml
+    - ./systems/tap-samples/tap-samples-system.yaml
+    - ./domains/tap-gui/tap-gui-domain.yaml
+    - ./domains/samples/samples-domain.yaml

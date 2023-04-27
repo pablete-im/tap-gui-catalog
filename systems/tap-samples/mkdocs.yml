@@ -1,0 +1,7 @@
+site_name: 'TAP Samples system'
+
+nav:
+  - The System: index.md
+
+plugins:
+  - techdocs-core

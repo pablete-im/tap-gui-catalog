@@ -14,4 +14,4 @@ spec:
     - ./systems/tap-gui-system.yaml
     - ./systems/tap-samples-system.yaml
     - ./domains/tap-gui-domain.yaml
-    - ./domains/cloudapps-domain.yaml
+    - ./domains/samples-domain.yaml

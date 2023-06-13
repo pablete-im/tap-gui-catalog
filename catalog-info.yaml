@@ -9,6 +9,7 @@ spec:
   targets:
     - ./components/tap-gui/tap-gui.yaml
     - ./components/tanzu-java-web-app/tanzu-java-web-app.yaml
+    - ./components/java-server-side-ui/java-server-side-ui.yaml
     - ./groups/default-org.yaml
     - ./groups/org.yaml
     - ./systems/tap-gui/tap-gui-system.yaml

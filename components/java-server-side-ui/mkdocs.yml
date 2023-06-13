@@ -1,0 +1,7 @@
+site_name: 'java server side ui app'
+
+nav:
+  - The Component: index.md
+
+plugins:
+  - techdocs-core
